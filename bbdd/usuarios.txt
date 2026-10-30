@@ -1,0 +1,23 @@
+POST localhost:3000/api/usuarios/registro
+
+{
+    "username": "Marcelo",
+    "nombre": "Marcelo",
+    "email": "Marcelo@g.c",
+    "password": "1234",
+    "rol": "CLIENTE"
+}
+{
+    "username": "Agustin",
+    "nombre": "Agustin",
+    "email": "Agustin@g.c",
+    "password": "1234",
+    "rol": "CLIENTE"
+}
+{
+    "username": "David",
+    "nombre": "David",
+    "email": "David@g.c",
+    "password": "1234",
+    "rol": "CLIENTE"
+}

@@ -1,0 +1,7 @@
+POST localhost:3000/api/ventas/registro
+
+{
+    "idUsuario": "",
+    "idCoche": "6ad9cc9c9bb0f7d46fd4a79e",
+    "precio": 40000
+}
